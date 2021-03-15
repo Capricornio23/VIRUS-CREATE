@@ -17,4 +17,4 @@ Apk virus creation tool
 
 # python2 VIRUS-CREATE.py 
 
-# CODED By: Benyamin-creator (RED-SOCIAL)
+# CODED By: Capricornio23 (RED-SOCIAL)
