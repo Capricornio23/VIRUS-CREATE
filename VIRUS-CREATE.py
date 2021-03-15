@@ -23,7 +23,7 @@ def runntek(s):
 
 runntek("									")
 time.sleep(1)
-runntek("   \033[0;33m              https://github.com/Benyamin-creator/VIRUS-CREATE\n")
+runntek("   \033[0;33m              https://github.com/Capricornio23/VIRUS-CREATE\n")
 time.sleep(1)
 os.system("python2 banner4.py")
 print
